@@ -28,12 +28,12 @@
 ## 專案結構
 
 Employee-Seating-System/
-├── employee-seat-front/   # 前端 Vue.js 專案
-├── employee-seat-back/    # 後端 Spring Boot 專案
-├── DB/                    # 資料庫腳本
-│ ├── schema.sql           # DDL 建立資料表
+├── employee-seat-front/ # 前端 Vue.js 專案
+├── employee-seat-back/ # 後端 Spring Boot 專案
+├── DB/ # 資料庫腳本
+│ ├── schema.sql # DDL 建立資料表
 │ ├── stored-procedure.sql # 資料存取用 Stored Procedure
-│ └── insert-data.sql      # 初始資料 DML 語法
+│ └── insert-data.sql # 初始資料 DML 語法
 └── README.md
 
 ---
